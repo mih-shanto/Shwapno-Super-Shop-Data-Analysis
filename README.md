@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project leverages **Power BI** to provide **business insights** for Shwapno Super Shop by analyzing **sales data** and **customer behavior**. Using **DAX** formulas, **Power Query**, and **advanced data transformations**, I built a comprehensive dashboard to help the company make **data-driven decisions**.
-![Image Alt Text] (https://github.com/mih-shanto/Shwapno-Super-Shop-Data-Analysis/blob/main/Project%20Details/1.1.png)
+![Image Alt Text](https://github.com/mih-shanto/Shwapno-Super-Shop-Data-Analysis/blob/main/Project%20Details/1.1.png)
 
 ## Key Insights Discovered:
 - **Sales Performance Trends**: Identified peak sales periods, slow seasons, and trends to optimize marketing campaigns and inventory management.
