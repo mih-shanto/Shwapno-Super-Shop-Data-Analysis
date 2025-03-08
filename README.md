@@ -11,11 +11,11 @@ The dashboard includes interactive visualizations such as **line charts, pie cha
 
 🚀 Shwapno Super Shop Business Insights | Power BI Project
 
-🔹 Project Title: Shwapno Super Shop Business Insights
+🔹 **Project Title:** Shwapno Super Shop Business Insights
 
-🔹 Tools Used: Power BI, DAX, Power Query, Excel
+🔹 **Tools Used:** Power BI, DAX, Power Query, Excel
 
-✅ Business Insights Discovered
+✅ **Business Insights Discovered**
 
 📌 Sales Performance Trends: Identified peak sales months, seasonal trends, and slow periods to optimize marketing & inventory.
 
@@ -27,7 +27,7 @@ The dashboard includes interactive visualizations such as **line charts, pie cha
 
 📌 Delivery Status Impact: Measured how late deliveries affected customer retention & loyalty.
 
-💡 Business Benefits
+💡 **Business Benefits**
 
 ✅ Increased Sales: Optimized promotions during peak seasons & improved engagement for at-risk customers.
 
@@ -39,7 +39,7 @@ The dashboard includes interactive visualizations such as **line charts, pie cha
 
 📊 This project was a great learning experience, where I used DAX formulas, custom measures, and advanced Power Query transformations to clean, analyze, and visualize complex data.
 
-👉 Looking for feedback & networking opportunities! If you're in the field of Data Analytics, Business Intelligence, or Decision Science, let’s connect and share ideas! 🚀
+👉 **Looking for feedback & networking opportunities! If you're in the field of Data Analytics, Business Intelligence, or Decision Science, let’s connect and share ideas!** 🚀
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #DAX #SQL #DataDriven #Shwapno
 3. The data can be refreshed with new sales and customer data to keep the insights up-to-date.
