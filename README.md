@@ -1,7 +1,7 @@
 # 🚀 Shwapno Super Shop Business Insights | Power BI Project
 
 ## Project Files & Dashboard:
-The dashboard includes interactive visualizations such as **line charts, pie charts, and bar charts** for analyzing various aspects of the business. The report also includes **dynamic filters** for better drill-down analysis.
+The "Shwapno Super Shop Business Insights" dashboard provides a clear view of sales performance, customer behavior, and payment trends. With 7.1M total sales and 5000 orders, the monthly sales trend helps identify peak seasons, while the Bangladesh map highlights regional sales. Customer segmentation by gender and age allows for better marketing strategies, and the payment method distribution shows transaction preferences. The use of maps, line charts, and donut charts makes insights actionable for business growth.
 
 ![Image Alt Text](https://github.com/mih-shanto/Shwapno-Super-Shop-Data-Analysis/blob/main/Project%20Details/1.1.png)
 
